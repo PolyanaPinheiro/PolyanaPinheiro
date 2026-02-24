@@ -10,11 +10,11 @@ Sou uma grande admiradora de programação, gosto de pensar na parte logica e co
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Trabalho diariamente com coleta,tratamento e moni. Aqui estão algumas das minhas principais ferramentas:
+Trabalho diariamente com coleta, tratamento e monitoramento de dados industriais. Minhas principais ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Power Apps" height="35" width="35" src="https://img.icons8.com/color/48/microsoft-power-apps.png">
+  <img align="center" alt="Grafana" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
   <img align="center" alt="Node-RED" height="30" width="40" src="https://nodered.org/about/resources/media/node-red-icon.svg">
 </div>
 
@@ -26,15 +26,9 @@ Almejando a elevação do meu conhecimento, meus atuais estudos são sobre:
   <img align="center" alt="Power BI" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 </div>
 
-
-
-
-## 📫 Como me encontrar
+##
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/polyana-pinheiro-ferreira-34203221a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:seu.email@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
