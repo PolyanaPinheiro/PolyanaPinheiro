@@ -1,6 +1,6 @@
 # Olá! Sou a Poly!
 
-Sou uma grande admiradora de programação, gosto de pensar na parte logica e como fazer as coisas funcionarem (Quando funcionam!). Direto de Manaus, AM, 20 aninhos, e muitos caminhos para desbravar!
+Sou uma grande admiradora de programação, gosto de pensar na parte logica e como fazer as coisas funcionarem (Quando funcionam!).
 
 ## Um pouco sobre mim
 
