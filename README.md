@@ -16,6 +16,7 @@ Trabalho diariamente com coleta, tratamento e monitoramento de dados industriais
   <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Grafana" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
   <img align="center" alt="Node-RED" height="30" width="40" src="https://nodered.org/about/resources/media/node-red-icon.svg">
+  
 </div>
 
 ### 📚 Aprendendo
@@ -24,6 +25,8 @@ Almejando a elevação do meu conhecimento, meus atuais estudos são sobre:
 <div style="display: inline_block"><br>
   <img align="center" alt="Redes" src="https://img.shields.io/badge/Redes_de_Computadores-02569B?style=for-the-badge&logo=cisco&logoColor=white">
   <img align="center" alt="Power BI" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt=".Net" height="35" width="40" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/3840px-Microsoft_.NET_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
+  <img align="center" alt="CSharp" height="35" width="40" src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg">
 </div>
 
 ##
