@@ -5,7 +5,7 @@ Sou uma grande admiradora de programação, gosto de pensar na parte logica e co
 ## Um pouco sobre mim
 
 * 💡 Técnica em Informatica para Internet.
-* 🚀 Cursando Análise e Desenvolvimento de Sistemas.
+* 🚀 Tecnóloga em Análise e Desenvolvimento de Sistemas.
 * 🌱 Focada em aprendar mais para poder invetir em uma área especifica, explorando analise de dados e redes.
 
 ### 🛠️ Tecnologias e Ferramentas
